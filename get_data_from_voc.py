@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021/6/2 9:01
-# @Author : xmhh
-# @File : get_data_from_voc.py
-# @Software: PyCharm
 from xml.dom.minidom import parse
 import os
 from glob import glob
