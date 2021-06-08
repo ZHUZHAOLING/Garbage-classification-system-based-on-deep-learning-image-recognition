@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021/6/2 20:14
-# @Author : xmhh
-# @File : TrashDataloader.py
-# @Software: PyCharm
 import os
 from glob import glob
 
