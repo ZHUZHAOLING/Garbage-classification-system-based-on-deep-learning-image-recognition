@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-数据集准备脚本
-"""
 import os
 import codecs
 import shutil
