@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021/6/2 16:59
-# @Author : xmhh
-# @File : simple_train.py
-# @Software: PyCharm
-# -*- coding: utf-8 -*-
 from torchvision import datasets, transforms
 import torch
 from torch import nn
